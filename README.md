@@ -16,15 +16,15 @@
 
 	<section class="billboard light">
 		<header class="wrapper light">
-			<a href="#"><img class="logo" src="./img/logo.png" alt="Restaurant Logo"/></a>
+			<a href="#"><img class="logo" src="logo.png" alt="Restaurant Logo"/></a>
 			<nav>
 				<ul>
 					<li><a href="#">Home</a></li>
 					
-					<li><a href="./menu.html">Menu</a></li>
-					<li><a href="./karaoke.html">Karaoke/Party</a></li>
-					<li><a href="./promotions.html">Promotions/Events</a></li>
-					<li><a href="./contact.html">Contact Us</a></li>
+					<li><a href="menu.html">Menu</a></li>
+					<li><a href="karaoke.html">Karaoke/Party</a></li>
+					<li><a href="promotions.html">Promotions/Events</a></li>
+					<li><a href="contact.html">Contact Us</a></li>
 				</ul>
 			</nav>
 		</header>
@@ -86,10 +86,10 @@
 			<nav>
 				<ul>
 					<li><a href="#">Home</a></li>
-					<li><a href="./menu.html">Menu</a></li>
-					<li><a href="./karaoke.html">Karaoke/Party</a></li>
-					<li><a href="./promotions.html">Promotions/Events</a></li>
-					<li><a href="./contact.html">Contact Us</a></li>
+					<li><a href="menu.html">Menu</a></li>
+					<li><a href="karaoke.html">Karaoke/Party</a></li>
+					<li><a href="promotions.html">Promotions/Events</a></li>
+					<li><a href="contact.html">Contact Us</a></li>
 				</ul>
 			</nav>
 		</div>		
