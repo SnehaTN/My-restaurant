@@ -21,18 +21,17 @@
 				<ul>
 					<li><a href="#">Home</a></li>
 					
-					<li><a href="menu.html">Menu</a></li>
-					<li><a href="karaoke.html">Karaoke/Party</a></li>
-					<li><a href="promotions.html">Promotions/Events</a></li>
-					<li><a href="contact.html">Contact Us</a></li>
+					<li><a style="color:black" href="menu.html">Menu</a></li>
+					<li><a style="color:black" href="karaoke.html">Karaoke/Party</a></li>
+					<li><a style="color:black" href="promotions.html">Promotions/Events</a></li>
+					<li><a style="color:black" href="contact.html">Contact Us</a></li>
 				</ul>
 			</nav>
 		</header>
 
-		<div class="row" style="background-image:url(homepage_pic.jpg)" >
+		<div class="row" style="background-image:url(homepage_pic.jpg);width: 1700px;height: 550px;align-text: center" >
 			<h1 style="color: white;text-align: center" >Welcome to Carl Restaurant</h1>
-			<h1 style="color: white;text-align: center" >Welcome to Carl Restaurant</h1>
-			<p>A Crazy place for crazy foody - Heart of Perfect Food Hangout!</p>
+			<p style="color: white;text-align: center" >A Crazy place for crazy foody - Heart of Perfect Food Hangout!</p>
 			<hr>
 		</div>
 		<div class="shadow"></div>
