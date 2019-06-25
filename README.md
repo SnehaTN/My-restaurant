@@ -29,7 +29,7 @@
 			</nav>
 		</header>
 
-		<div  style="background-image:url(homepage_pic.jpg);height:500px;width:1700px" >
+		<div  style="background-image:url(homepage_pic.jpg);height:700px;width:1500px" >
 			<h1 style="color: white;text-align: center;align-content :center" >Welcome to Carl Restaurant</h1>
 			<h1 style="color: white;text-align: center;align-content :center" >Welcome to Carl Restaurant</h1>
 			<p>A Crazy place for crazy foody - Heart of Perfect Food Hangout!</p>
