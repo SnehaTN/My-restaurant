@@ -29,7 +29,7 @@
 			</nav>
 		</header>
 
-		<div  background="homepage_pic.jpg" >
+		<div class="caption light animated wow fadeInDown clearfix" background="homepage_pic.jpg" >
 			<h1>Welcome to Carl Restaurant</h1>
 			<p>A Crazy place for crazy foody - Heart of Perfect Food Hangout!</p>
 			<hr>
