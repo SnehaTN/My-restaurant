@@ -29,9 +29,9 @@
 			</nav>
 		</header>
 
-		<div  style="background-image:url(homepage_pic.jpg);height:2000px;width:2000px" >
-			<h1 style="color:white" >Welcome to Carl Restaurant</h1>
-			<p style="color:white" >A Crazy place for crazy foody - Heart of Perfect Food Hangout!</p>
+		<div  style="background-image:url(homepage_pic.jpg)" >
+			<h1>Welcome to Carl Restaurant</h1>
+			<p>A Crazy place for crazy foody - Heart of Perfect Food Hangout!</p>
 			<hr>
 		</div>
 		<div class="shadow"></div>
@@ -80,7 +80,7 @@
 	<footer>
 		<div class="wrapper">
 			<div class="rights">
-				<p>Carl Restaurant | Developed By Michael</p>
+				<p>Carl Restaurant</p>
 			</div>
 
 			<nav>
